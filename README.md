@@ -12,4 +12,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[linkedin]: https://linkedin.com/in/Blake
+[linkedin]: [https://linkedin.com/in/Blake](https://www.linkedin.com/in/blake-adams-pte/)
